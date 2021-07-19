@@ -1,2 +1,13 @@
 # AirMouse
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:75%;position:relative;"><iframe width="360" height="270" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5gzbil"></iframe></div><p><a href="https://imgflip.com/gif/5gzbil">via Imgflip</a></p></div>
+
+
+### This right here is an application of the latest openCV version ,where I have used its optimal tracing features and using it along with Autopy made an AirMouse ,you can control the mouse through finger gestures. 
+
+### The begining steps were tracing the fingers and perfectly outlining the number of fingers.
+[![qFu8C.th.jpg](https://i.im.ge/2021/07/19/qFu8C.th.jpg)](https://im.ge/i/qFu8C) [![q1TlD.th.jpg](https://i.im.ge/2021/07/19/q1TlD.th.jpg)](https://im.ge/i/q1TlD)  [![q1PMF.th.jpg](https://i.im.ge/2021/07/19/q1PMF.th.jpg)](https://im.ge/i/q1PMF)
+
+
+### Further using Autopy we integrated the mouse movements and added in the clicking functionality ,when you close the two finger you get a click.
+![Alt Text](https://media.giphy.com/media/yfPCzcJBKLAt0Kkdfu/giphy.gif)
+
+### Further all the changes were made to make this experience as smooth as possible, such that all areas of the screen are accessible.
